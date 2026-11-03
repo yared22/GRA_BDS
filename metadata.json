@@ -1,0 +1,8 @@
+{
+  "name": "Remix BDS Training Management \u0026 Certification System",
+  "description": "Complete BDS Training Management System (BDS-TMS) with hybrid attendance, LMS tracking, administrator approval workflow, QR verification, and Telegram bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
